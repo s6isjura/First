@@ -1,2 +1,2 @@
 # First
-First proect in Tools of Data Science
+First project in Tools of Data Science
